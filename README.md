@@ -1,3 +1,3 @@
 # hadoopcode
 1.本代码片段展示了如何在java应用中提交Mapreduce Job到Yarn，以及如何加载job的依赖包。
-2.要使本代码运行成功的前提是hadoop的conf目录下的配置文件已在项目启动的时候已经加载到了classpath。
+2.要使本代码运行成功的前提是hadoop的conf目录下的配置文件已在项目启动的时候已经加载到了classpath（参考start.sh）。
